@@ -70,7 +70,7 @@ function Testimonial() {
           size="100%"
           fill={true}
         />
-        <div className="relative z-10 h-full w-screen bg-gradient-to-br from-black/80 inset-y-0 inset-x-0 grid items-center md:grid-cols-3 px-5 xl:px-24 sm:px-16 md:gap-14 gap-5 py-20">
+        <div className="relative z-10 h-full w-screen bg-gradient-to-br from-black/80 inset-y-0 inset-x-0 grid items-center md:grid-cols-3 px-5 xl:px-24 sm:px-16 md:gap-14 gap-5 py-20 text-white">
           <div className="md:col-span-1 md:border-r-2 border-white text-center md:text-left">
             <p className="text-base">
               Over 16,000 <br className="hidden md:block" /> impacted MSME’s
